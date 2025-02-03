@@ -17,14 +17,3 @@
 ###
 
 
-## 🛠 Навыки:
-  <li>🔹 Java, Python</li>
-  <li>🔹 API-интеграции с биржами (Binance, Bybit)</li>
-
-###
-
-<div class="p-5 bg-gray-800 rounded-lg">
-<h3 class="text-xl font-semibold">🔹 Криптовалютные инструменты</h3>
-<p class="text-gray-400">Мониторинг курсов, боты для торговли, аналитика блокчейна.</p>
-</div>
-
